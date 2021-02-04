@@ -6,5 +6,5 @@ font:
 sound:[PANICPUMPKIN](http://pansound.com/panicpumpkin/about/index.html)  
   
 
-![](https://github.com/yuyurigi/block_kuzushi/blob/main/スクリーンショット%202021-01-30%2023.22.48.png)  
-![](https://github.com/yuyurigi/block_kuzushi/blob/main/スクリーンショット%202021-01-30%2023.23.08.png)
+![](https://github.com/yuyurigi/block_kuzushi_2/blob/main/スクリーンショット%202021-02-04%2022.42.53.png)  
+![](https://github.com/yuyurigi/block_kuzushi_2/blob/main/スクリーンショット%202021-02-04%2022.35.55.png)
